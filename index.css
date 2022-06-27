@@ -444,6 +444,10 @@ ul{
      .fluid, .parent {
 		flex-wrap: wrap;
 	}
+	.child, .parent, .childq, .childqq{
+		width: 100%;
+		height: 100%;
+	}
 }
 a:hover{
 	text-decoration: none;
